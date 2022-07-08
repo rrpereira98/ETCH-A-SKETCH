@@ -1,0 +1,18 @@
+.canvas {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+}
+
+.canvas-row {
+    background-color: brown;
+    flex: 1;
+    display: flex;
+}
+
+.canvas-pixel {
+    background-color: purple;
+    flex: 1;
+}
